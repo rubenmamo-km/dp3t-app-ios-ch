@@ -2773,7 +2773,7 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/DP-3T/dp3t-sdk-ios.git";
 			requirement = {
-				branch = develop;
+				branch = "bugfix/background-task-scheduling";
 				kind = branch;
 			};
 		};

@@ -32,8 +32,8 @@
         "package": "DP3TSDK",
         "repositoryURL": "https://github.com/DP-3T/dp3t-sdk-ios.git",
         "state": {
-          "branch": "develop",
-          "revision": "fcb11aa6d9cd10b6188e2d2838ba1e16eaea5450",
+          "branch": "bugfix/background-task-scheduling",
+          "revision": "56ae39afd75a9ca6c5061238e71db381a603c582",
           "version": null
         }
       },
